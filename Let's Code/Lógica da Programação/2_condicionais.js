@@ -74,3 +74,25 @@ if(!(x === a)) {
 else {
     console.log(true);
 }
+
+// if/else
+
+// Verificando uma condição:
+if(2 > 1) {
+    console.log(true);
+}
+else {
+    console.log(false);
+}
+
+// Verificando mais de uma condição
+if(2 <= 5) {
+    console.log(true);
+}
+else if(5 == 5) {
+    console.log(false);
+}
+else {
+    console.log("outro resultado")
+}
+
