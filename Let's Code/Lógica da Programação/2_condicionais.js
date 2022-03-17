@@ -96,3 +96,6 @@ else {
     console.log("outro resultado")
 }
 
+// Operador Tenário
+let paridade = x % 2 === 0 ? 'par' : 'impar'
+console.log(paridade);
